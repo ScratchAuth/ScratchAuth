@@ -1,1 +1,1 @@
-# ScratchAuth
+<img src="media/images/png/icon-wide.png"></img>
