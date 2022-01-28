@@ -1,6 +1,6 @@
 function showOutput() {
     var Scratch = require('scratch-api');
-    Scratch.UserSession.create('--Tech--', 'cod3rd0jo', callback(Error, Scratch.UserSession));
+    Scratch.UserSession.create('usernmae', 'password', callback(Error, Scratch.UserSession));
     var boolLogin = Scratch.UserSession.verify()
     console.log(boolLogin)
     var strLogin = str(boolLogin)
